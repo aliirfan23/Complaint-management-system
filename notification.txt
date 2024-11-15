@@ -1,0 +1,3 @@
+Complaint_# 1   Description:ajdb sgb   Status:Closed   TeacherID:001   TeacherNAME:ali_irfan   Manager:1   
+Complaint_# 2   Description:ali   Status:Closed   TeacherID:001   TeacherNAME:ali_irfan   Manager:1   
+Complaint_# 22   Description:Chairs are less in the class   Status:Closed   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:001   Date:2023-12-08

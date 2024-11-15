@@ -1,0 +1,27 @@
+Complaint_# 1   Description:ajdb sgb   Status:Resolved   TeacherID:001   TeacherNAME:ali_irfan   Manager:1   
+Complaint_# 2   Description:ali   Status:Resolved   TeacherID:001   TeacherNAME:ali_irfan   Manager:1   
+Complaint_# 3   Description:teting   Status:solved   TeacherID:002   TeacherNAME:ahmad   Manager:1     
+Complaint_# 4   Description:ali lighdvbfd   Status:solved   TeacherID:001   TeacherNAME:ali_irfan   Manager:1   
+Complaint_# 5   Description:razi ko nikal   Status:new   TeacherID:001   TeacherNAME:ali_irfan   Manager:1   
+Complaint_# 6   Description:umer is gay in class   Status:closed   TeacherID:001   TeacherNAME:ali_irfan   Manager:1   
+Complaint_# 7   Description:lights issue   Status:new   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:1   
+Complaint_# 8   Description:defefr rfrf   Status:new   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:1   
+Complaint_# 9   Description:fhfg gfbgf   Status:new   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:1   
+Complaint_# 10   Description:ff rfr   Status:Resolved   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:1   
+Complaint_# 11   Description:dfdf   Status:Resolved   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:1   
+Complaint_# 12   Description:dsgfr rfgeg   Status:new   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:1   
+Complaint_# 13   Description:jsbdjhy dfbjehf   Status:Resolved   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:1   
+Complaint_# 14   Description:jdbcjhcv dhcbsdjhc   Status:new   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:1   
+Complaint_# 15   Description:fdds dvcv   Status:new   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:1   
+Complaint_# 16   Description:djfbjh hbvfjhsdvf   Status:Resolved   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:1   
+Complaint_# 17   Description:dhvcjhds dcfsjdhv   Status:new   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:003   
+Complaint_# 18   Description:dcbehjfb   Status:new   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:   
+Complaint_# 19   Description:fhveu ruefgery   Status:new   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:003   
+Complaint_# 20   Description:Lights are less   Status:new   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:001   
+Complaint_# 21   Description:ssjhv dsbcjd   Status:new   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:   
+Complaint_# 22   Description:Chairs are less in the class   Status:Resolved   TeacherID:001   TeacherNAME:Ali_Irfan   Manager:001   Date:2023-12-08
+Complaint_# 23   Description:Hamza doesnot come to the clss   Status:new   TeacherID:001   TeacherNAME:Ali_irfan   Manager:001   Date:2023-12-08
+Complaint_# 24   Description:Ac not working   Status:new   TeacherID:001   TeacherNAME:Ali_irfan   Manager:003   Date:2023-12-08
+Complaint_# 25   Description:ali ali   Status:new   TeacherID:001   TeacherNAME:Ali_irfan   Manager:001   Date:2023-12-08
+Complaint_# 26   Description:ali is a rat   Status:new   TeacherID:001   TeacherNAME:Ali_irfan   Manager:001   Date:2024-01-02
+Complaint_# 27   Description:systems server down   Status:new   TeacherID:001   TeacherNAME:Ali_irfan   Manager:001   Date:2024-07-18
